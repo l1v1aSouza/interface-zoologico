@@ -1,0 +1,30 @@
+.barra-navegacao{
+    font-family: "Caesar Dressing", system-ui;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    color: #A7A000;
+}
+
+.logo-zoo{
+    width: 25%;
+}
+
+.navbar-opcoes{
+    width: 75%;
+    margin-right: 2%;
+}
+
+.navbar-opcoes > ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+li {
+    padding: 0 2%;
+    font-size: 1.5rem;
+}
