@@ -2,7 +2,6 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
 
 :root {
-  font-family: "Caesar Dressing", system-ui;
   line-height: 1.5;
   font-weight: 400;
 
@@ -31,6 +30,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: #F1EFB8;
+  font-family: "Caesar Dressing", system-ui;
 }
 
 h1 {
