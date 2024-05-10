@@ -6,11 +6,6 @@
     font-family: "Caesar Dressing", system-ui;
 }
 
-/* .ctn-atracao > img {
-    width: 50%;
-    height: 50%;
-} */
-
 .ctn-cardanimal > p {
     font-size: 2em;
 }
@@ -20,3 +15,10 @@
     height: 50%;
 }
 
+/*css/Renato
+    .ctn-animais {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}*/
